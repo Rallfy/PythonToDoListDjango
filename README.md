@@ -22,15 +22,18 @@ Task Management: Update, mark as complete, or delete tasks as needed.
 Categories: Organize tasks into categories or projects for better organization.
 User Accounts: Users can create accounts to securely manage their tasks and preferences.
 User Notifications: Receive reminders and notifications for upcoming tasks or deadlines.
+
 Administrative Tools
 Admin Dashboard: A dynamic administrative dashboard provides insights into user activity and task completion rates.
 User Management: Efficiently manage user accounts and permissions.
 Task Analytics: Analyze task data to identify patterns and optimize task management.
+
 Technology Stack
 Backend: Developed using the Django Framework (Python), known for its robustness and scalability.
 Frontend: Utilizes Django templates for a responsive and user-friendly interface.
 Database: Uses Django's built-in ORM to efficiently store and manage task data.
 User Authentication: Implements secure user authentication and authorization.
+
 User Experience
 The SMART ToDoList App focuses on delivering an exceptional user experience:
 
