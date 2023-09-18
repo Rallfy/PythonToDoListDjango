@@ -64,8 +64,16 @@ Explore the codebase and documentation to understand the project's structure and
 
 If you have any ideas, bug fixes, or enhancements, please open an issue or submit a pull request. Make sure to follow the code of conduct when contributing.
 
-License
-This project is licensed under the MIT License, allowing you to use and modify the code for your purposes. Please review the license file for more details.
+App Screenshots
+
+Take a closer look at our app's key features and user interface through the following screenshots. These images provide a visual overview of the app's functionality and design, showcasing the user experience you can expect.
+
+Screenshot 1: Home Page
+![image](https://github.com/Rallfy/PythonToDoListDjango/assets/44873170/6cc3845d-3f31-4201-88f8-1fadc3b2e53d)
+
+Screenshot 2: Login Page
+![image](https://github.com/Rallfy/PythonToDoListDjango/assets/44873170/8beeba24-284e-4309-8180-af886d9a1dc6)
+
 
 Thank you for joining us on this journey to simplify task management with the SMART ToDoList App! If you have any questions or need assistance, feel free to reach out.
 
